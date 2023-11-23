@@ -2,7 +2,10 @@
   "recommendations": [
     "esbenp.prettier-vscode",
     "PKief.material-icon-theme",
-    "rocketseat.theme-omni",
-    "ritwickdey.LiveServer"
+    "ritwickdey.LiveServer",
+    "bracketpaircolordlw.bracket-pair-color-dlw",
+    "formulahendry.code-runner",
+    "visualstudioexptteam.vscodeintellicod",
+    "dracula-theme.theme-dracula",
   ]
 }
